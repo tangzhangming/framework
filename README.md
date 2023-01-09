@@ -1,2 +1,3 @@
-# framework
-Go Web Component
+# Go项目组件的封装 以及第三方组件的二次封装
+
+
